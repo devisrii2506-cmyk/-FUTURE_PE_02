@@ -1,16 +1,16 @@
-# 🎯 UGC Ad Script Generator – Sritik Cafe
+#  UGC Ad Script Generator – Sritik Cafe
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a Prompt Engineering system that generates UGC-style Instagram Reel ad content for a real café business using AI.
 
-## 🏢 Business Details
+##  Business Details
 
 * Name: Sritik Cafe
 * Location: Sainikpuri
 * Tagline: Your Home Away From Home
 
-## 🎯 Objective
+##  Objective
 
 To generate high-converting UGC ad content including:
 
@@ -20,7 +20,7 @@ To generate high-converting UGC ad content including:
 * Call-to-action variations
 * Instagram captions
 
-## 🧠 Prompt Engineering Approach
+##  Prompt Engineering Approach
 
 * Role-based prompting (UGC ad creator + marketer)
 * Structured output formatting
@@ -28,22 +28,22 @@ To generate high-converting UGC ad content including:
 * Platform optimization for Instagram Reels & Shorts
 * Customer-style storytelling (not salesy content)
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * ChatGPT / Gemini / Claude
 * Prompt Engineering Techniques
 * GitHub for documentation
 
-## 📤 Files Included
+##  Files Included
 
 * prompt.md → AI instruction prompt
 * output.md → Generated UGC ad content
 
-## 🚀 Outcome
+##  Outcome
 
 This system demonstrates how AI can be used to create real marketing-ready UGC ad scripts for local businesses in seconds.
 
-## 📌 Use Case
+##  Use Case
 
 This prompt can be reused for:
 
@@ -53,7 +53,7 @@ This prompt can be reused for:
 * D2C brands
 * Local businesses
 
-## 🔗 Internship Context
+##  Internship Context
 
 Created as part of Prompt Engineering Internship Task.
 
