@@ -1,75 +1,59 @@
-# Sritik Cafe – UGC Ad Content Pack
-
-## 1️⃣ Five Attention-Grabbing Hooks
-
-1. "I was looking for a cozy place to relax in Sainikpuri, and I think I just found my new favorite café."
-
-2. "If you're tired of crowded coffee shops, you need to see this hidden gem."
-
-3. "I came here for the coffee, but honestly, I stayed for the vibe."
-
-4. "Working from home was getting boring until I found this café."
-
-5. "This café truly lives up to its tagline — Your Home Away From Home."
+# 🎬 Sritik Cafe – UGC Ad Content Pack
 
 ---
 
-## 2️⃣ 30-Second UGC Ad Script
+## 🔥 1. Five Attention-Grabbing Hooks
 
-🎥 Scene: Customer walking into the café, showing coffee, food, and seating.
-
-"Honestly, I was searching for a peaceful place to grab coffee and get some work done. That's when I found Sritik Cafe in Sainikpuri.
-
-The atmosphere is so warm and welcoming, the coffee tastes amazing, and the food is freshly prepared. Whether you're meeting friends, studying, or just taking a break, this place feels like home.
-
-Now I find myself coming here almost every week. If you're nearby, you should definitely check it out.
-
-Reserve your table or order online and experience it yourself."
+1. This café in Sainikpuri feels like home ☕  
+2. I didn’t expect this vibe at all  
+3. Hidden gem café alert in Sainikpuri  
+4. I came for coffee… stayed for hours  
+5. Working from home got better after this café  
 
 ---
 
-## 3️⃣ 15-Second UGC Ad Script
+## 🎥 2. 30-Second UGC Ad Script
 
-🎥 Scene: Close-up shots of coffee, snacks, and cozy seating.
+**Scene:** Customer entering café, showing ambience, coffee, snacks, and seating.
 
-"I just discovered Sritik Cafe in Sainikpuri, and I'm obsessed! Great coffee, delicious snacks, free Wi-Fi, and such a relaxing vibe.
+"Honestly, I was just looking for a calm place to sit, relax, and maybe get some work done. That’s when I found Sritik Cafe in Sainikpuri.
 
-If you're looking for a cozy café to work, relax, or catch up with friends, this is the place.
+The vibe here is really warm and chill. The coffee is good, the snacks feel fresh, and the whole place just makes you want to stay longer.
 
-Visit today or reserve your table online!"
+I ended up spending way more time here than I expected, just talking and relaxing without any rush.
 
----
-
-## 4️⃣ CTA Variations
-
-### CTA 1
-
-☕ Your perfect coffee break is waiting. Visit Sritik Cafe today.
-
-### CTA 2
-
-📅 Reserve your favorite spot before the weekend rush.
-
-### CTA 3
-
-🛵 Order your favorite coffee and snacks online and enjoy them anytime.
+If you're nearby, you should definitely check it out."
 
 ---
 
-## 5️⃣ Instagram Caption
+## 🎬 3. 15-Second UGC Ad Script
 
-☕ Found a new favorite spot in Sainikpuri!
+**Scene:** Close-up shots of coffee, food, and cozy seating.
 
-Sritik Cafe is the perfect place for great coffee, delicious snacks, productive work sessions, and quality time with friends and family. The cozy atmosphere truly makes it feel like a home away from home.
+"I just found Sritik Cafe in Sainikpuri, and the vibe is amazing. Great coffee, tasty snacks, and a super chill atmosphere.
 
-Whether you're looking for a quick coffee break, a comfortable workspace, or a relaxing evening, Sritik Cafe has something for everyone.
+Perfect spot to relax, work, or meet friends.
 
-📍 Sainikpuri
-☕ Fresh Coffee
-🥐 Tasty Snacks
-💻 Free Wi-Fi
-📅 Table Reservations Available
+You should definitely visit once."
 
-Tag someone you'd love to visit with! ❤️
+---
 
-#SritikCafe #CoffeeLovers #CafeLife #Sainikpuri #YourHomeAwayFromHome #CoffeeTime #LocalCafe #Foodie #WorkCafe #CafeVibes
+## 🚀 4. CTA Variations
+
+- ☕ Your next coffee break spot is here — visit Sritik Cafe  
+- 📅 Plan your weekend hangout at Sainikpuri’s hidden gem  
+- 🧑‍🤝‍🧑 Bring your friends and enjoy a chill café vibe  
+
+---
+
+## 📱 5. Instagram Caption
+
+Found a cozy little café in Sainikpuri that just feels right ☕✨
+
+Sritik Cafe has a super chill vibe, good coffee, fresh snacks, and the perfect atmosphere to relax, work, or hang out with friends.
+
+It really feels like a home away from home.
+
+📍 Sainikpuri | ☕ Coffee | 🥐 Snacks | 💻 Work-friendly | 📅 Reservations Available  
+
+#SritikCafe #CafeVibes #CoffeeLovers #Sainikpuri #HiddenGem #CafeLife #WorkCafe #ChillSpot
