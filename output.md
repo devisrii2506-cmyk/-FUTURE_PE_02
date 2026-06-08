@@ -1,6 +1,5 @@
 # 🎬 Sritik Cafe – UGC Ad Content Pack
 
----
 
 ## 🔥 1. Five Attention-Grabbing Hooks
 
@@ -10,7 +9,6 @@
 4. I came for coffee… stayed for hours  
 5. Working from home got better after this café  
 
----
 
 ## 🎥 2. 30-Second UGC Ad Script
 
@@ -24,7 +22,7 @@ I ended up spending way more time here than I expected, just talking and relaxin
 
 If you're nearby, you should definitely check it out."
 
----
+
 
 ## 🎬 3. 15-Second UGC Ad Script
 
@@ -36,7 +34,6 @@ Perfect spot to relax, work, or meet friends.
 
 You should definitely visit once."
 
----
 
 ## 🚀 4. CTA Variations
 
@@ -44,7 +41,7 @@ You should definitely visit once."
 - 📅 Plan your weekend hangout at Sainikpuri’s hidden gem  
 - 🧑‍🤝‍🧑 Bring your friends and enjoy a chill café vibe  
 
----
+
 
 ## 📱 5. Instagram Caption
 
